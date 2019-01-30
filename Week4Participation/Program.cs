@@ -25,7 +25,7 @@ namespace Week4Participation
 
             int m = 11;
             Console.WriteLine("m > 10 : {0}", (m > 10));
-
+            int z = 3;
             int a = 2, b = 2, c = 4;
             Console.WriteLine("28 % a : {0}", (28 % a == 0));
             Console.WriteLine("28 % b : {0}", (28 % b == 0));
